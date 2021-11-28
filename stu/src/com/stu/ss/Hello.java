@@ -7,5 +7,6 @@ package com.stu.ss;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("ssw");
+        System.out.println("zc");
     }
 }
